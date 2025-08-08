@@ -10,6 +10,7 @@ Hi There, Welcome to my Github profile!
 - 💻 Autodidacta en el área de Datos: Análisis de Datos (BI), Data Engineer, KPIs
 - 👨‍💻 Apasionado por la tecnología y la innovación
 - 🔭 Formación técnica en procesos industriales y energía
+- ☁️ Aprendiendo servicios cloud almacenamiento, procesamiento y visualización de datos
 - 🌱 Actualmente busco colaborar en proyectos de análisis y ciencia de datos para mejorar la eficiencia de sistemas y procesos
 - 🚀 ¡Echa un vistazo a mis proyectos abajo!  👇
 </pre>
@@ -23,6 +24,7 @@ Hi There, Welcome to my Github profile!
 - 💻 Self-taught in Data: Data Analysis (BI), Data Engineering, KPIs
 - 👨‍💻 Passionate about technology and innovation
 - 🔭 Technical background in industrial processes and energy
+- ☁️ Currently learning cloud services focused on data storage, processing, and visualization.
 - 🌱 Currently looking to collaborate on data analysis and data science projects to improve system and process efficiency
 - 🚀 Check out my projects below! 👇
 </pre>
